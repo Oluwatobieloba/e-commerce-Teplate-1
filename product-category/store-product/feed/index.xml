@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Store Product &#8211; Online Shop</title>
+	<atom:link href="/product-category/store-product/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Professional Website for Businesses.</description>
+	<lastBuildDate>Fri, 12 Aug 2022 14:47:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/07/cropped-Group-32x32.png</url>
+	<title>Store Product &#8211; Online Shop</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Califonia Retro Sunset</title>
+		<link>/product/califonia-retro-sunset/</link>
+					<comments>/product/califonia-retro-sunset/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwatobiloba]]></dc:creator>
+		<pubDate>Tue, 31 May 2022 12:19:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=342</guid>
+
+					<description><![CDATA[Here you can find garments of all sizes, colors, styles and fabrics. It will suit you best of all. Because we all live in the time of total consuming of uncountable goods and s...]]></description>
+										<content:encoded><![CDATA[<p>Here you can find garments of all sizes, colors, styles and fabrics. It will suit you best of all. Because we all live in the time of total consuming of uncountable goods and</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/califonia-retro-sunset/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Driving Into Sunset</title>
+		<link>/product/driving-into-sunset/</link>
+					<comments>/product/driving-into-sunset/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwatobiloba]]></dc:creator>
+		<pubDate>Tue, 31 May 2022 12:19:10 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=341</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/driving-into-sunset/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Anime special</title>
+		<link>/product/anime-special/</link>
+					<comments>/product/anime-special/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwatobiloba]]></dc:creator>
+		<pubDate>Tue, 31 May 2022 12:19:08 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=340</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/anime-special/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tokyo Samurai</title>
+		<link>/product/tokyo-samurai/</link>
+					<comments>/product/tokyo-samurai/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwatobiloba]]></dc:creator>
+		<pubDate>Tue, 31 May 2022 12:19:05 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=339</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/tokyo-samurai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Love</title>
+		<link>/product/love/</link>
+					<comments>/product/love/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwatobiloba]]></dc:creator>
+		<pubDate>Tue, 31 May 2022 12:19:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=338</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/love/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sushi Hug</title>
+		<link>/product/sushi-hug/</link>
+					<comments>/product/sushi-hug/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwatobiloba]]></dc:creator>
+		<pubDate>Tue, 31 May 2022 11:34:38 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=320</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/sushi-hug/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
