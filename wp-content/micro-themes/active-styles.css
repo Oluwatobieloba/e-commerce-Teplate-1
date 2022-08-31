@@ -1,0 +1,1620 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Front Page ================ */
+
+/** Front Page >> Brxe zhmdxt link **/
+#brxe-zhmdxt > a {
+	
+}
+
+/** Front Page >> Brxe nrqumi brxe pdmmay **/
+#brxe-nrqumi .brxe-pdmmay, 
+.brxe-viqbsn {
+	
+}
+
+/** Front Page >> Brxe nrqumi best sale container _2 **/
+.best-sale-container:hover .best-sale-title {
+	color: #2D554C !important;
+}
+.best-sale-container:hover .best-sale-tag {
+	color: #212121 !important;
+}
+
+/** Front Page >> Swiper slide active hero h1 **/
+.swiper-slide-active .hero-h1 {
+	font: 75px / 1.1 Lora,serif !important;
+	max-width: 550px !important;
+	margin: 10px auto 10px auto !important;
+}
+
+/** Front Page >> Brxe njglwr woocommerce **/
+#brxe-njglwr .woocommerce {
+	
+}
+
+/** Front Page >> Swiper slide active hero subh1 **/
+div.hero-subh1 {
+	font-family: Open Sans, sans-serif !important;
+	font-size: calc(1.3125rem + 0.41666667vw) !important;
+	max-width: 550px !important;
+	margin: 0 auto 30px auto !important;
+}
+
+/** Front Page >> Brx content swiper slide **/
+#brx-content .swiper-slide {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-direction: column !important;
+	-moz-flex-direction: column !important;
+	-ms-flex-direction: column !important;
+	flex-direction: column !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+	-webkit-align-content: center !important;
+	align-content: center !important;
+}
+
+/** Front Page >> Brxe nrqumi secondary font **/
+#brxe-nrqumi .secondary-font {
+	
+}
+
+/** Front Page >> Brxe njglwr product type simple **/
+#brxe-njglwr .product_type_simple {
+	color: rgb(255, 255, 255) !important;
+	background-color: #010101 !important;
+}
+
+/** Front Page >> Woocommerce cart form cart item table data (#n) **/
+.woocommerce-cart-form__cart-item td:nth-of-type(2) {
+	width: 3rem !important;
+	padding: 0 2rem 0 2rem !important;
+}
+.woocommerce-cart-form__cart-item td:nth-of-type(3) {
+	width: auto !important;
+	padding: 0 2rem !important;
+}
+.woocommerce-cart-form__cart-item td:nth-of-type(4) {
+	width: auto !important;
+	padding: 0 2rem !important;
+}
+.woocommerce-cart-form__cart-item td:nth-of-type(6) {
+	width: auto !important;
+	padding: 0 2rem !important;
+}
+
+/** Front Page >> Brxe xqnojj action **/
+#brxe-xqnojj .action {
+	display: none !important;
+}
+
+/** Front Page >> Woocommerce cart form cart item product quantity **/
+.woocommerce-cart-form__cart-item .product-quantity {
+	
+}
+
+/** Front Page >> Quantity 629b4182d59cc **/
+#quantity_629b4182d59cc {
+	
+}
+
+/** Front Page >> Brxe xqnojj quantity **/
+#brxe-xqnojj .quantity {
+	width: 8rem !important;
+}
+
+/** Front Page >> Brxe xqnojj woocommerce cart form cart item **/
+#brxe-xqnojj .woocommerce-cart-form__cart-item {
+	display: grid !important;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 2% !important;
+	grid-template-rows: auto !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(1) {
+	grid-area: 1 / 6 / 2 / 7 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(2) {
+	grid-area: 1 / 1 / 2 / 2 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(3) {
+	grid-area: 1 / 2 / 2 / 3 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(6) {
+	grid-area: 1 / 5 / 2 / 6 !important;
+}
+
+/** Front Page >> Menu item 489 link (:active:hover) **/
+#menu-item-489 a:hover {
+	
+}
+
+/** Front Page >> Menu main menu link (:hover) **/
+#menu-main-menu a:hover {
+	
+}
+
+/** Front Page >> Brxe mnopnw wc forward **/
+#brxe-mnopnw .wc-forward {
+	
+}
+
+/** Front Page >> Brxe mnopnw wc forward _2 **/
+#brxe-mnopnw .wc-forward {
+	color: rgb(235, 235, 235) !important;
+	background-color: rgb(0, 0, 0) !important;
+}
+
+/** Front Page >> List item (#1) link (#2) **/
+.active > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(2) {
+	
+}
+
+/** Front Page >> Active link (#2) **/
+.active a:nth-of-type(2) {
+	color: rgb(30, 30, 30) !important;
+}
+
+/** Front Page >> Brxe mnopnw strong **/
+#brxe-mnopnw strong {
+	color: rgb(0, 0, 0) !important;
+}
+
+/** Front Page >> Woocommerce mini cart total bdi **/
+.woocommerce-mini-cart__total bdi {
+	color: rgb(80, 87, 94) !important;
+}
+
+/** Front Page >> Brxe qymrqh checkout button **/
+#brxe-qymrqh .checkout-button {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(26, 26, 26) !important;
+	height: 40px !important;
+}
+
+
+/*= General =================== */
+
+/** General >> Brxe nrqumi best sale title **/
+#brxe-nrqumi .best-sale-title {
+	font: 45px / 1.1 Lora,serif !important;
+}
+
+/** General >> Brxe tcvgal add to wishlist after add to cart **/
+#brxe-tcvgal .add-to-wishlist-after_add_to_cart {
+	-webkit-align-content: space-between !important;
+	align-content: space-between !important;
+}
+
+/** General >> Post 340 woocommerce loop product link **/
+.post-340 .woocommerce-loop-product__link {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-wrap: wrap !important;
+	-moz-flex-wrap: wrap !important;
+	-ms-flex-wrap: wrap !important;
+	flex-wrap: wrap !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+	-webkit-align-content: center !important;
+	align-content: center !important;
+}
+
+/** General >> Brxe tcvgal post 340 **/
+a.woocommerce-LoopProduct-link.woocommerce-loop-product__link {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-flow: row wrap !important;
+	-moz-flex-flow: row wrap !important;
+	-ms-flex-flow: row wrap !important;
+	flex-flow: row wrap !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+	-webkit-align-content: center !important;
+	align-content: center !important;
+}
+
+/** General >> Brxe nqowzb wp post image **/
+#brxe-nqowzb .wp-post-image {
+	border-top-color: rgb(0, 128, 255) !important;
+	border-width: 1px !important;
+}
+
+/** General >> Brxe dmhmyu cart **/
+.cart {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+/** General >> Brxe dmhmyu quantity **/
+#brxe-dmhmyu .quantity {
+	margin-right: 1.5rem !important;
+	margin-bottom: 0 !important;
+}
+
+/** General >> Brxe dmhmyu minus **/
+#brxe-dmhmyu .minus {
+	display: none !important;
+}
+
+/** General >> Brxe dmhmyu plus **/
+#brxe-dmhmyu .plus {
+	display: none !important;
+}
+
+/** General >> Woocommerce LoopProduct linkwoocommerce loop product link **/
+a.woocommerce-LoopProduct-link.woocommerce-loop-product__link {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-direction: column !important;
+	-moz-flex-direction: column !important;
+	-ms-flex-direction: column !important;
+	flex-direction: column !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+
+/** General >> Cart **/
+.cart {
+	-webkit-flex-flow: column wrap !important;
+	-moz-flex-flow: column wrap !important;
+	-ms-flex-flow: column wrap !important;
+	flex-flow: column wrap !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	display: grid !important;
+	grid-template-columns: 1fr !important;
+	grid-template-rows: auto auto !important;
+}
+.cart > :nth-child(2) {
+	grid-area: 2 / 1 / 3 / 2 !important;
+}
+
+/** General >> Brxe xqnojj **/
+#brxe-xqnojj {
+	
+}
+
+/** General >> Brxe vpoxpu **/
+#brxe-vpoxpu {
+	
+}
+
+/** General >> Brxe wyjrga quantity **/
+#brxe-wyjrga .quantity {
+	display: none !important;
+}
+
+/** General >> Brxe wyjrga in stock **/
+#brxe-wyjrga .in-stock {
+	width: auto !important;
+}
+
+/** General >> Brxe wyjrga in stock _2 **/
+#brxe-wyjrga .in-stock {
+	text-align: center !important;
+}
+
+/** General >> Yith wcwl form wishlist items wrapper **/
+#yith-wcwl-form .wishlist-items-wrapper {
+	display: grid !important;
+	grid-template-columns: 1fr !important;
+	grid-template-rows: auto auto !important;
+}
+#yith-wcwl-form .wishlist-items-wrapper > :nth-child(2) {
+	grid-area: 2 / 1 / 3 / 2 !important;
+}
+
+/** General >> Yith wcwl row 338 **/
+#yith-wcwl-row-338 {
+	display: grid !important;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr !important;
+	grid-template-rows: auto !important;
+}
+
+/** General >> Yith wcwl form table head **/
+#yith-wcwl-form thead {
+	display: grid !important;
+	grid-template-columns: 1fr !important;
+	grid-template-rows: auto !important;
+}
+
+/** General >> Table head table row **/
+thead tr {
+	display: grid !important;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr !important;
+	grid-template-rows: auto !important;
+}
+thead tr > :nth-child(1) {
+	grid-area: 1 / 1 / 2 / 2 !important;
+}
+
+/** General >> Yith wcwl form nobr **/
+#yith-wcwl-form .nobr {
+	font-size: 1.8rem !important;
+}
+
+/** General >> Brx content **/
+#brx-content {
+	
+}
+
+/** General >> Wishlist items wrapper table row **/
+.wishlist-items-wrapper tr {
+	
+}
+
+/** General >> Yith wcwl form table row **/
+#yith-wcwl-form tr {
+	display: grid !important;
+	grid-template-columns: 2% 13rem 18rem 13rem 17rem 17rem !important;
+	grid-template-rows: auto !important;
+}
+
+/** General >> Wishlist fragment attachment woocommerce thumbnail **/
+.wishlist-fragment .attachment-woocommerce_thumbnail {
+	
+}
+
+/** General >> Wishlist items wrapper product thumbnail **/
+.wishlist-items-wrapper .product-thumbnail {
+	width: 11.5rem !important;
+}
+
+/** General >> Yith wcwl form table data **/
+#yith-wcwl-form td {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+
+/** General >> Product name link **/
+.product-name a {
+	font-size: 1.8rem !important;
+}
+
+/** General >> Yith wcwl form bdi **/
+#yith-wcwl-form bdi {
+	font-size: 1.8rem !important;
+}
+
+/** General >> Yith wcwl form wishlist in stock **/
+#yith-wcwl-form .wishlist-in-stock {
+	font-size: 1.6rem !important;
+}
+
+/** General >> Yith wcwl form add to cart button **/
+#yith-wcwl-form .add_to_cart_button {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(30, 30, 30) !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+/** General >> Yith wcwl form ask an estimate button **/
+#yith-wcwl-form .ask-an-estimate-button {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	position: relative !important;
+	right: 25rem !important;
+}
+
+
+/*= General 2 ================= */
+
+/** General 2 >> Brxe tcvgal yith wcwl add button **/
+#brxe-tcvgal .yith-wcwl-add-button {
+	
+}
+
+/** General 2 >> Brxe tcvgal yith wcwl icon **/
+#brxe-tcvgal .yith-wcwl-icon {
+	display: none !important;
+}
+
+/** General 2 >> Brxe tcvgal single add to wishlist **/
+#brxe-tcvgal .single_add_to_wishlist {
+	color: rgb(26, 26, 26) !important;
+	background-color: rgb(255, 255, 255) !important;
+	height: 41px !important;
+}
+
+/** General 2 >> Single product post 338 **/
+.single-product .post-338 {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-flow: row wrap !important;
+	-moz-flex-flow: row wrap !important;
+	-ms-flex-flow: row wrap !important;
+	flex-flow: row wrap !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	position: relative !important;
+}
+
+/** General 2 >> Single product post 338 _2 **/
+.single-product .product {
+	-webkit-flex-direction: row !important;
+	-moz-flex-direction: row !important;
+	-ms-flex-direction: row !important;
+	flex-direction: row !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+}
+
+/** General 2 >> Brxe tcvgal product type simple _2 **/
+#brxe-tcvgal .product_type_simple {
+	background-color: rgb(26, 26, 26) !important;
+}
+
+/** General 2 >> Yith wcwl items 62f677b4646d2 items count (#2) **/
+.yith-wcwl-items-62f677b4646d2 .items-count:nth-of-type(2) {
+	
+}
+
+/** General 2 >> Yith wcwl form **/
+#yith-wcwl-form {
+	padding: 7rem 2rem 7rem 2rem !important;
+}
+
+/** General 2 >> Yith wcwl row 320 remove from wishlist **/
+#yith-wcwl-row-320 .remove_from_wishlist {
+	
+}
+
+/** General 2 >> Yith wcwl form remove from wishlist **/
+#yith-wcwl-form .remove_from_wishlist {
+	font-size: 2.8rem !important;
+}
+
+/** General 2 >> Js active page **/
+.js_active .page {
+	
+}
+
+/** General 2 >> Yith wcwl form wishlist title container **/
+#yith-wcwl-form .wishlist-title-container {
+	
+}
+
+/** General 2 >> Yith wcwl form fa whatsapp (::before) **/
+#yith-wcwl-form .fa-whatsapp::before {
+	font-family: "Font Awesome 5 Brands" !important;
+	content: "\f099" !important;
+}
+
+
+/*= Front page 2 ============== */
+
+/** Front page 2 >> Coupon [type="submit"] **/
+.coupon [type="submit"] {
+	color: rgb(255, 255, 255) !important;
+}
+
+/** Front page 2 >> Table data button **/
+td > button {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(26, 26, 26) !important;
+}
+
+/** Front page 2 >> Brxe xqnojj actions **/
+#brxe-xqnojj .actions {
+	
+}
+
+/** Front page 2 >> Brxe vkiles **/
+#brxe-vkiles {
+	
+}
+
+/** Front page 2 >> Menu main menu **/
+#menu-main-menu {
+	
+}
+
+/** Front page 2 >> Brx header bricks nav menu **/
+false {
+	
+}
+
+/** Front page 2 >> Brxe ktoeoe **/
+#brxe-ktoeoe {
+	
+}
+
+/** Front page 2 >> Menu main menu menu item type post type **/
+#menu-main-menu .menu-item-type-post_type {
+	margin-right: 2rem !important;
+	margin-left: 2rem !important;
+}
+
+
+/*( Large Desktop )*/
+@media (min-width: 1200px) {
+
+	/*= General 2 ================= */
+
+	/** General 2 >> Single product post 338 _2 **/
+	.single-product .product {
+	-webkit-flex-direction: row !important;
+	-moz-flex-direction: row !important;
+	-ms-flex-direction: row !important;
+	flex-direction: row !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+}
+
+
+}
+
+
+/*( Desktop & Tablet )*/
+@media (min-width: 768px) and (max-width: 979px) {
+
+	/*= General =================== */
+
+	/** General >> Brxe tcvgal add to wishlist after add to cart **/
+	#brxe-tcvgal .add-to-wishlist-after_add_to_cart {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-direction: column !important;
+	-moz-flex-direction: column !important;
+	-ms-flex-direction: column !important;
+	flex-direction: column !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+
+	/** General >> Brx content **/
+	#brx-content {
+	
+}
+
+	/** General >> Wishlist items wrapper table row **/
+	.wishlist-items-wrapper tr {
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+
+	/** General >> Table head table row **/
+	thead tr {
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+}
+
+	/** General >> Yith wcwl form add to cart button **/
+	#yith-wcwl-form .add_to_cart_button {
+	color: rgb(255, 255, 255) !important;
+	line-height: 1.5 !important;
+	background-color: rgb(0, 0, 0) !important;
+	height: 40px !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General >> Yith wcwl form ask an estimate button **/
+	#yith-wcwl-form .ask-an-estimate-button {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	margin-right: 2rem !important;
+	right: 0 !important;
+}
+
+	/** General >> Yith wcwl form yith wcwl share **/
+	#yith-wcwl-form .yith-wcwl-share {
+	margin-top: 8rem !important;
+}
+
+	/** General >> Cart **/
+	.cart {
+	padding-left: 0 !important;
+}
+
+	/** General >> Yith wcwl form list item **/
+	#yith-wcwl-form li {
+	display: grid !important;
+	grid-template-columns: 1fr 1fr 1fr !important;
+	grid-template-rows: auto auto !important;
+}
+
+
+	/*= General 2 ================= */
+
+	/** General 2 >> Brxe tcvgal yith wcwl icon **/
+	#brxe-tcvgal .yith-wcwl-icon {
+	display: none !important;
+}
+
+	/** General 2 >> Yith wcwl form heading 2 **/
+	#yith-wcwl-form h2 {
+	font: 75px / 1.1 Lora,serif !important;
+}
+
+
+	/*= Front Page ================ */
+
+	/** Front Page >> Brxe hympvs **/
+	#brxe-hympvs {
+	
+}
+
+	/** Front Page >> Woocommerce cart form cart item table data (#n) **/
+	.woocommerce-cart-form__cart-item td:nth-of-type(2) {
+	width: 10rem !important;
+	padding: 0 1rem 0 1rem !important;
+}
+.woocommerce-cart-form__cart-item td:nth-of-type(4) {
+	width: 10rem !important;
+	padding: 0 1rem !important;
+}
+.woocommerce-cart-form__cart-item td:nth-of-type(6) {
+	width: 10rem !important;
+	padding: 0 1rem !important;
+}
+
+	/** Front Page >> Woocommerce cart form cart item product quantity **/
+	.woocommerce-cart-form__cart-item .product-quantity {
+	width: 8rem !important;
+}
+
+	/** Front Page >> Brxe xqnojj woocommerce cart form cart item **/
+	#brxe-xqnojj .woocommerce-cart-form__cart-item {
+	display: grid !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(2) {
+	grid-area: 1 / 1 / 2 / 2 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(3) {
+	grid-area: 1 / 2 / 2 / 3 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(4) {
+	grid-area: 1 / 3 / 2 / 4 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(5) {
+	grid-area: 1 / 4 / 2 / 5 !important;
+}
+
+	/** Front Page >> Brxe fqivnd **/
+	#brxe-fqivnd {
+	
+}
+
+
+	/*= Front page 2 ============== */
+
+	/** Front page 2 >> Menu main menu **/
+	#menu-main-menu {
+	
+}
+
+	/** Front page 2 >> Brx header bricks nav menu **/
+	false {
+	
+}
+
+
+}
+
+
+/*( Tablet & Phone )*/
+@media (max-width: 767px) {
+
+	/*= General =================== */
+
+	/** General >> Yith wcwl items 6296d482402f0 span (#2) **/
+	.yith-wcwl-items-6296d482402f0 span:nth-of-type(2) {
+	transform: translateX(15px) !important;
+}
+
+	/** General >> Yith wcwl items 6296dbd12f0dd span (#2) **/
+	.yith-wcwl-items-6296dbd12f0dd span:nth-of-type(2) {
+	
+}
+
+	/** General >> Yith wcwl items 6296de82186ad span (#2) **/
+	.yith-wcwl-items-6296de82186ad span:nth-of-type(2) {
+	left: 30px !important;
+}
+
+	/** General >> Wishlist items wrapper table row **/
+	.wishlist-items-wrapper tr {
+	
+}
+
+	/** General >> Yith wcwl row 338 **/
+	#yith-wcwl-row-338 {
+	
+}
+
+	/** General >> Yith wcwl form table row **/
+	#yith-wcwl-form tr {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-direction: row !important;
+	-moz-flex-direction: row !important;
+	-ms-flex-direction: row !important;
+	flex-direction: row !important;
+}
+
+	/** General >> Yith wcwl form list item **/
+	#yith-wcwl-form li {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General >> Yith wcwl row 342 item wrapper **/
+	#yith-wcwl-row-342 .item-wrapper {
+	display: grid !important;
+	grid-template-columns: 1fr 1fr 1fr 1fr !important;
+	grid-template-rows: auto !important;
+}
+#yith-wcwl-row-342 .item-wrapper > :nth-child(2) {
+	grid-area: 1 / 2 / 2 / 5 !important;
+}
+
+	/** General >> Yith wcwl row 342 heading 3 **/
+	#yith-wcwl-row-342 h3 {
+	width: 100% !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General >> Product name link **/
+	.product-name a {
+	width: auto !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General >> Yith wcwl form table data **/
+	#yith-wcwl-form td {
+	width: auto !important;
+	padding-right: 1rem !important;
+}
+
+	/** General >> Yith wcwl form product add to cart **/
+	#yith-wcwl-form .product-add-to-cart {
+	width: 15.9rem !important;
+	padding-right: auto !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General >> Yith wcwl form add to cart button **/
+	#yith-wcwl-form .add_to_cart_button {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General >> Yith wcwl form ask an estimate button **/
+	#yith-wcwl-form .ask-an-estimate-button {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	right: 0 !important;
+}
+
+	/** General >> Cart **/
+	.cart {
+	padding-left: 0 !important;
+}
+
+
+	/*= General 2 ================= */
+
+	/** General 2 >> Single product post 338 _2 **/
+	.single-product .product {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-flow: row wrap !important;
+	-moz-flex-flow: row wrap !important;
+	-ms-flex-flow: row wrap !important;
+	flex-flow: row wrap !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	position: relative !important;
+}
+li.product.type-product.post-320.status-publish.instock.product_cat-uncategorized.has-post-thumbnail.sale.shipping-taxable.purchasable.product-type-simple.add-to-wishlist-after_add_to_cart {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-wrap: wrap !important;
+	-moz-flex-wrap: wrap !important;
+	-ms-flex-wrap: wrap !important;
+	flex-wrap: wrap !important;
+	position: relative !important;
+	-webkit-flex-direction: row !important;
+	-moz-flex-direction: row !important;
+	-ms-flex-direction: row !important;
+	flex-direction: row !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+}
+
+	/** General 2 >> Yith wcwl form product remove **/
+	#yith-wcwl-form .product-remove {
+	width: 3rem !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General 2 >> Yith wcwl form additional info wrapper **/
+	#yith-wcwl-form .additional-info-wrapper {
+	width: 25rem !important;
+	display: grid !important;
+	grid-template-columns: 1fr 1fr 1fr !important;
+	grid-template-rows: auto !important;
+}
+#yith-wcwl-form .additional-info-wrapper > :nth-child(1) {
+	grid-area: 1 / 1 / 2 / 3 !important;
+}
+#yith-wcwl-form .additional-info-wrapper > :nth-child(2) {
+	grid-area: 2 / 1 / 3 / 2 !important;
+}
+
+	/** General 2 >> Yith wcwl form **/
+	#yith-wcwl-form {
+	padding: 3rem 2rem 3rem 2rem !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-direction: column !important;
+	-moz-flex-direction: column !important;
+	-ms-flex-direction: column !important;
+	flex-direction: column !important;
+}
+
+	/** General 2 >> Yith wcwl row 341 item wrapper **/
+	#yith-wcwl-row-341 .item-wrapper {
+	
+}
+
+	/** General 2 >> Yith wcwl share unordered list **/
+	.yith-wcwl-share ul {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General 2 >> Yith wcwl form yith wcwl footer additional action **/
+	#yith-wcwl-form .yith_wcwl_footer_additional_action {
+	
+}
+
+	/** General 2 >> Yith wcwl form yith wcwl wishlist footer **/
+	#yith-wcwl-form .yith_wcwl_wishlist_footer {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-direction: column-reverse !important;
+	-moz-flex-direction: column-reverse !important;
+	-ms-flex-direction: column-reverse !important;
+	flex-direction: column-reverse !important;
+}
+
+	/** General 2 >> Yith wcwl form heading 2 **/
+	#yith-wcwl-form h2 {
+	font: 75px / 1.1 Lora,serif !important;
+}
+
+
+	/*= Front Page ================ */
+
+	/** Front Page >> Brxe zhmdxt link **/
+	#brxe-zhmdxt > a {
+	
+}
+
+	/** Front Page >> Icon 03 **/
+	#icon-03 {
+	
+}
+
+	/** Front Page >> Brxe fbtzlu **/
+	#brxe-fbtzlu {
+	width: 100% !important;
+	-webkit-align-content: center !important;
+	align-content: center !important;
+}
+
+	/** Front Page >> Brxe elpcat **/
+	#brxe-elpcat {
+	min-width: 71vw !important;
+}
+
+	/** Front Page >> Brxe njjmyr **/
+	#brxe-njjmyr {
+	width: 95% !important;
+}
+
+	/** Front Page >> Yith wcwl items 6296a57008c0d span (#2) **/
+	.yith-wcwl-items-6296a57008c0d span:nth-of-type(2) {
+	transform: translate(12px, 4px) !important;
+}
+
+	/** Front Page >> Brxe hympvs perk description **/
+	#brxe-hympvs .perk-description {
+	padding-top: 1rem !important;
+}
+
+	/** Front Page >> Brxe ylcbjj items count **/
+	#brxe-ylcbjj .items-count {
+	left: 30px !important;
+}
+
+	/** Front Page >> Brxe hympvs **/
+	#brxe-hympvs {
+	
+}
+
+	/** Front Page >> Brxe xqnojj woocommerce cart form cart item **/
+	#brxe-xqnojj .woocommerce-cart-form__cart-item {
+	padding-left: 0 !important;
+	display: grid !important;
+	-webkit-align-content: start !important;
+	align-content: start !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(2) {
+	grid-area: 1 / 1 / 2 / 2 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(4) {
+	grid-area: 1 / 3 / 2 / 4 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(5) {
+	grid-area: 1 / 4 / 2 / 5 !important;
+}
+
+	/** Front Page >> Woocommerce cart form cart item product quantity **/
+	.woocommerce-cart-form__cart-item .product-quantity {
+	width: auto !important;
+}
+
+	/** Front Page >> Brxe fqivnd **/
+	#brxe-fqivnd {
+	display: grid !important;
+	grid-column-gap: 0.6rem !important;
+	column-gap: 0.6rem !important;
+	grid-row-gap: 2rem !important;
+	row-gap: 2rem !important;
+	grid-template-columns: 1fr 1fr !important;
+	grid-template-rows: auto auto auto !important;
+}
+
+
+	/*= Front page 2 ============== */
+
+	/** Front page 2 >> Brxe vkiles **/
+	#brxe-vkiles {
+	padding-right: auto !important;
+	padding-left: auto !important;
+}
+
+	/** Front page 2 >> Brxe vkiles table body **/
+	#brxe-vkiles tbody {
+	width: 100% !important;
+}
+
+	/** Front page 2 >> Brxe lssadx **/
+	#brxe-lssadx {
+	width: 100% !important;
+}
+
+	/** Front page 2 >> Brxe fqivnd div **/
+	#brxe-fqivnd > div {
+	text-align: center !important;
+}
+
+
+}
+
+
+/*( Small Tablet )*/
+@media (max-width: 600px) {
+
+	/*= General =================== */
+
+	/** General >> Yith wcwl items 6296de82186ad span (#2) **/
+	.yith-wcwl-items-6296de82186ad span:nth-of-type(2) {
+	left: 30px !important;
+}
+
+	/** General >> Yith wcwl form table row **/
+	#yith-wcwl-form tr {
+	width: 15rem !important;
+}
+
+	/** General >> Yith wcwl form list item **/
+	#yith-wcwl-form li {
+	width: auto !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-wrap: wrap !important;
+	-moz-flex-wrap: wrap !important;
+	-ms-flex-wrap: wrap !important;
+	flex-wrap: wrap !important;
+	-webkit-justify-content: space-between !important;
+	justify-content: space-between !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+	-webkit-align-content: space-around !important;
+	align-content: space-around !important;
+}
+
+	/** General >> Yith wcwl form yith wcwl share **/
+	#yith-wcwl-form .yith-wcwl-share {
+	width: 30rem !important;
+}
+
+	/** General >> Brx content **/
+	#brx-content {
+	
+}
+
+
+	/*= General 2 ================= */
+
+	/** General 2 >> Add to wishlist span **/
+	.add_to_wishlist > span {
+	font-size: 12px !important;
+}
+
+	/** General 2 >> Brxe tcvgal add to wishlist 342 **/
+	#brxe-tcvgal .add-to-wishlist-342 {
+	width: auto !important;
+}
+
+	/** General 2 >> Brxe tcvgal yith wcwl icon **/
+	#brxe-tcvgal .yith-wcwl-icon {
+	display: none !important;
+}
+
+	/** General 2 >> Brxe tcvgal single add to wishlist **/
+	#brxe-tcvgal .single_add_to_wishlist {
+	padding: 1rem !important;
+}
+
+	/** General 2 >> Single product post 338 _2 **/
+	.single-product .product {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-flow: row wrap !important;
+	-moz-flex-flow: row wrap !important;
+	-ms-flex-flow: row wrap !important;
+	flex-flow: row wrap !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	position: relative !important;
+}
+
+	/** General 2 >> Yith wcwl items 62f677b4646d2 items count (#2) **/
+	.yith-wcwl-items-62f677b4646d2 .items-count:nth-of-type(2) {
+	
+}
+
+	/** General 2 >> Yith wcwl form item wrapper **/
+	#yith-wcwl-form .item-wrapper {
+	width: 25rem !important;
+}
+
+	/** General 2 >> Yith wcwl form additional info wrapper **/
+	#yith-wcwl-form .additional-info-wrapper {
+	width: 16rem !important;
+	display: grid !important;
+	justify-items: end !important;
+}
+#yith-wcwl-form .additional-info-wrapper > :nth-child(1) {
+	grid-area: 1 / 1 / 2 / 2 !important;
+}
+#yith-wcwl-form .additional-info-wrapper > :nth-child(3) {
+	grid-area: 1 / 1 / 2 / 3 !important;
+}
+
+	/** General 2 >> Additional info table body **/
+	.additional-info tbody {
+	
+}
+
+	/** General 2 >> Yith wcwl share unordered list **/
+	.yith-wcwl-share ul {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-wrap: wrap !important;
+	-moz-flex-wrap: wrap !important;
+	-ms-flex-wrap: wrap !important;
+	flex-wrap: wrap !important;
+	-webkit-justify-content: space-between !important;
+	justify-content: space-between !important;
+	-webkit-align-content: space-between !important;
+	align-content: space-between !important;
+}
+
+	/** General 2 >> Yith wcwl form **/
+	#yith-wcwl-form {
+	padding-right: 3rem !important;
+	padding-left: 3rem !important;
+}
+
+	/** General 2 >> Yith wcwl form yith wcwl wishlist footer **/
+	#yith-wcwl-form .yith_wcwl_wishlist_footer {
+	width: auto !important;
+}
+
+	/** General 2 >> Yith wcwl form yith wcwl share title **/
+	#yith-wcwl-form .yith-wcwl-share-title {
+	width: 200px !important;
+}
+
+	/** General 2 >> Brx content wishlist page links **/
+	#brx-content .wishlist-page-links {
+	padding-left: 2rem !important;
+}
+
+	/** General 2 >> Yith wcwl form heading 2 **/
+	#yith-wcwl-form h2 {
+	font: 75px / 1.1 Lora,serif !important;
+}
+
+
+	/*= Front Page ================ */
+
+	/** Front Page >> Icon 03 **/
+	#icon-03 {
+	
+}
+
+	/** Front Page >> Swiper slide active hero h1 **/
+	.swiper-slide-active .hero-h1 {
+	font: 48px / 1.1em Lora,serif !important;
+	max-width: 550px !important;
+	margin: 10px auto 10px auto !important;
+}
+
+	/** Front Page >> Brxe njglwr woocommerce **/
+	#brxe-njglwr .woocommerce {
+	display: grid !important;
+	grid-template-columns: 1fr 1fr !important;
+	grid-template-rows: auto auto !important;
+}
+
+	/** Front Page >> Brxe fmzrhc **/
+	#brxe-fmzrhc {
+	font: 45px / 1.1 Lora,serif !important;
+	text-align: center !important;
+}
+
+	/** Front Page >> Brxe hympvs perk description **/
+	#brxe-hympvs .perk-description {
+	max-width: 75% !important;
+}
+
+	/** Front Page >> Brxe hympvs perk container **/
+	#brxe-hympvs .perk-container {
+	-webkit-flex-direction: column !important;
+	-moz-flex-direction: column !important;
+	-ms-flex-direction: column !important;
+	flex-direction: column !important;
+}
+
+	/** Front Page >> Brxe ylcbjj items count **/
+	#brxe-ylcbjj .items-count {
+	left: 30px !important;
+}
+
+	/** Front Page >> Brxe hympvs **/
+	#brxe-hympvs {
+	
+}
+
+	/** Front Page >> Brxe nrqumi best sale tag **/
+	#brxe-nrqumi .best-sale-tag {
+	margin-top: 3rem !important;
+}
+
+	/** Front Page >> Brxe nrqumi brxe lkggsn **/
+	#brxe-nrqumi .brxe-lkggsn {
+	height: auto !important;
+}
+
+	/** Front Page >> Swiper slide active hero subh1 **/
+	div.hero-subh1 {
+	max-width: 350px !important;
+}
+
+	/** Front Page >> Brxe hympvs perk description _2 **/
+	#brxe-hympvs .perk-description {
+	margin-top: 1rem !important;
+}
+
+	/** Front Page >> Brxe fqivnd **/
+	#brxe-fqivnd {
+	display: grid !important;
+	grid-column-gap: 0.6rem !important;
+	column-gap: 0.6rem !important;
+	grid-row-gap: 2rem !important;
+	row-gap: 2rem !important;
+	grid-template-columns: 1fr 1fr !important;
+	grid-template-rows: auto auto auto !important;
+}
+
+	/** Front Page >> Brxe xqnojj woocommerce cart form cart item **/
+	#brxe-xqnojj .woocommerce-cart-form__cart-item {
+	display: grid !important;
+	grid-template-columns: 25% 25% 25% 25% !important;
+	grid-template-rows: auto auto !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(1) {
+	grid-area: 1 / 5 / 2 / 6 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(2) {
+	grid-area: 2 / 1 / 3 / 2 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(3) {
+	grid-area: 1 / 2 / 2 / 5 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(4) {
+	grid-area: 2 / 2 / 3 / 3 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(5) {
+	grid-area: 2 / 3 / 3 / 4 !important;
+}
+#brxe-xqnojj .woocommerce-cart-form__cart-item > :nth-child(6) {
+	grid-area: 2 / 4 / 3 / 5 !important;
+}
+
+	/** Front Page >> Woocommerce cart form cart item table data (#n) **/
+	.woocommerce-cart-form__cart-item td:nth-of-type(2) {
+	left: -21px !important;
+}
+
+
+	/*= Front page 2 ============== */
+
+	/** Front page 2 >> Brxe vkiles **/
+	#brxe-vkiles {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** Front page 2 >> Brxe lssadx **/
+	#brxe-lssadx {
+	
+}
+
+	/** Front page 2 >> Brxe fqivnd brxe heading **/
+	#brxe-fqivnd .brxe-heading {
+	font-size: 15px !important;
+	text-align: center !important;
+}
+
+
+}
+
+
+/*( Phone )*/
+@media (max-width: 480px) {
+
+	/*= General =================== */
+
+	/** General >> Yith wcwl items 6296dbd12f0dd span (#2) **/
+	.yith-wcwl-items-6296dbd12f0dd span:nth-of-type(2) {
+	transform: translate(16px, 3px) !important;
+}
+
+	/** General >> Brxe nrqumi best sale title **/
+	#brxe-nrqumi .best-sale-title {
+	font: 35px / 1.1 Lora,serif !important;
+}
+
+	/** General >> Cart **/
+	.cart {
+	padding-left: 0 !important;
+}
+
+	/** General >> Yith wcwl form yith wcwl share **/
+	#yith-wcwl-form .yith-wcwl-share {
+	width: 30rem !important;
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-direction: column !important;
+	-moz-flex-direction: column !important;
+	-ms-flex-direction: column !important;
+	flex-direction: column !important;
+}
+
+	/** General >> Yith wcwl form list item **/
+	#yith-wcwl-form li {
+	width: auto !important;
+	display: grid !important;
+	grid-template-columns: 1fr 1fr !important;
+	grid-template-rows: auto !important;
+}
+
+
+	/*= General 2 ================= */
+
+	/** General 2 >> Add to wishlist span **/
+	.add_to_wishlist > span {
+	font-size: 12rem !important;
+}
+
+	/** General 2 >> Brxe tcvgal yith wcwl add button **/
+	#brxe-tcvgal .yith-wcwl-add-button {
+	
+}
+
+	/** General 2 >> Brxe tcvgal add to wishlist 342 **/
+	#brxe-tcvgal .add-to-wishlist-342 {
+	
+}
+
+	/** General 2 >> Brxe tcvgal yith wcwl icon **/
+	#brxe-tcvgal .yith-wcwl-icon {
+	display: none !important;
+}
+
+	/** General 2 >> Brxe tcvgal single add to wishlist **/
+	#brxe-tcvgal .single_add_to_wishlist {
+	padding: 0.2rem !important;
+}
+
+	/** General 2 >> Yith wcwl form additional info wrapper **/
+	#yith-wcwl-form .additional-info-wrapper {
+	width: 16rem !important;
+	display: grid !important;
+	justify-items: end !important;
+	-webkit-align-items: start !important;
+	align-items: start !important;
+	-webkit-align-content: end !important;
+	align-content: end !important;
+}
+#yith-wcwl-form .additional-info-wrapper > :nth-child(1) {
+	grid-area: 1 / 1 / 2 / 2 !important;
+}
+#yith-wcwl-form .additional-info-wrapper > :nth-child(3) {
+	grid-area: 1 / 1 / 2 / 3 !important;
+}
+
+	/** General 2 >> Yith wcwl row 341 item wrapper **/
+	#yith-wcwl-row-341 .item-wrapper {
+	
+}
+
+	/** General 2 >> Yith wcwl form item wrapper **/
+	#yith-wcwl-form .item-wrapper {
+	width: 24.4rem !important;
+}
+
+	/** General 2 >> Yith wcwl form yith wcwl wishlist footer **/
+	#yith-wcwl-form .yith_wcwl_wishlist_footer {
+	width: auto !important;
+	display: grid !important;
+	grid-template-columns: 1fr 1fr 1fr !important;
+	grid-template-rows: auto !important;
+}
+#yith-wcwl-form .yith_wcwl_wishlist_footer > :nth-child(1) {
+	grid-area: 1 / 1 / 2 / 4 !important;
+}
+#yith-wcwl-form .yith_wcwl_wishlist_footer > :nth-child(2) {
+	grid-area: 1 / 1 / 2 / 4 !important;
+}
+#yith-wcwl-form .yith_wcwl_wishlist_footer > :nth-child(3) {
+	grid-area: 2 / 1 / 3 / 2 !important;
+}
+
+	/** General 2 >> Yith wcwl share unordered list **/
+	.yith-wcwl-share ul {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+}
+
+	/** General 2 >> Yith wcwl form yith wcwl share title **/
+	#yith-wcwl-form .yith-wcwl-share-title {
+	width: 200px !important;
+}
+
+	/** General 2 >> Yith wcwl form heading 2 **/
+	#yith-wcwl-form h2 {
+	font: 75px / 1.1 Lora,serif !important;
+}
+
+
+	/*= Front Page ================ */
+
+	/** Front Page >> Icon 03 **/
+	#icon-03 {
+	
+}
+
+	/** Front Page >> Brxe fbtzlu **/
+	#brxe-fbtzlu {
+	width: 100% !important;
+	-webkit-flex-direction: column !important;
+	-moz-flex-direction: column !important;
+	-ms-flex-direction: column !important;
+	flex-direction: column !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-content: center !important;
+	align-content: center !important;
+}
+
+	/** Front Page >> Brxe elpcat **/
+	#brxe-elpcat {
+	min-width: 90vw !important;
+}
+
+	/** Front Page >> Brxe njjmyr **/
+	#brxe-njjmyr {
+	width: 95% !important;
+}
+
+	/** Front Page >> Brxe fmzrhc **/
+	#brxe-fmzrhc {
+	font: 45px / 1.1 Lora,serif !important;
+	text-align: center !important;
+}
+
+	/** Front Page >> Swiper slide active dynamic (#1) **/
+	h3.dynamic {
+	text-align: center !important;
+}
+
+	/** Front Page >> Brxe ylcbjj items count **/
+	#brxe-ylcbjj .items-count {
+	left: 30px !important;
+}
+
+	/** Front Page >> Brxe nrqumi brxe lkggsn **/
+	#brxe-nrqumi .brxe-lkggsn {
+	height: auto !important;
+}
+
+	/** Front Page >> Brxe nrqumi brxe orpwpz **/
+	#brxe-nrqumi .brxe-orpwpz {
+	height: auto !important;
+}
+
+	/** Front Page >> Brxe qymrqh checkout button **/
+	#brxe-qymrqh .checkout-button {
+	line-height: 1 !important;
+}
+
+	/** Front Page >> Brxe fqivnd **/
+	#brxe-fqivnd {
+	display: grid !important;
+	grid-template-columns: 1fr !important;
+	grid-template-rows: auto auto auto auto !important;
+}
+#brxe-fqivnd > :nth-child(1) {
+	justify-self: center !important;
+}
+#brxe-fqivnd > :nth-child(2) {
+	justify-self: center !important;
+}
+#brxe-fqivnd > :nth-child(3) {
+	justify-self: center !important;
+}
+#brxe-fqivnd > :nth-child(4) {
+	justify-self: center !important;
+}
+
+	/** Front Page >> Brxe xqnojj woocommerce cart form cart item **/
+	#brxe-xqnojj .woocommerce-cart-form__cart-item {
+	
+}
+
+	/** Front Page >> Woocommerce cart form cart item table data (#n) **/
+	.woocommerce-cart-form__cart-item td:nth-of-type(2) {
+	left: -35px !important;
+}
+
+
+	/*= Front page 2 ============== */
+
+	/** Front page 2 >> Brxe vkiles **/
+	#brxe-vkiles {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** Front page 2 >> Brxe fqivnd div **/
+	#brxe-fqivnd > div {
+	width: 70% !important;
+}
+
+
+}
+
